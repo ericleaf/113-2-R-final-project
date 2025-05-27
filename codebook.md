@@ -107,7 +107,7 @@ This dataset contains village-level information for 7,723 villages across Taiwan
 
 ## Data summary
 
-This study utilizes a village-level dataset, prec_income, which combines electoral results from the 2024 presidential election in Taiwan with socioeconomic indicators of income for each village. The dataset encompasses a total of 5,096 unique villages, nested within 354 towns and 22 counties across the country. Sample county names include Taipei City (臺北市), New Taipei City (新北市), and Hsinchu City (新竹市), while representative town names include Beitou District (北投區), Shilin District (士林區), and Zhongshan District (中山區).
+This study utilizes a village-level dataset, **vote_income**, which combines electoral results from the 2024 presidential election in Taiwan with socioeconomic indicators of income for each village. The dataset encompasses a total of 5,096 unique villages, nested within 354 towns and 22 counties across the country. Sample county names include Taipei City (臺北市), New Taipei City (新北市), and Hsinchu City (新竹市), while representative town names include Beitou District (北投區), Shilin District (士林區), and Zhongshan District (中山區).
 
 The electoral component of the dataset contains vote share variables for the four major political parties. On average, the Democratic Progressive Party (DPP) secured 37.52% of the vote across villages (SD = 10.71%, min = 0%, max = 73.11%). The Kuomintang (KMT) recorded a similar mean vote share of 35.34% (SD = 10.20%, min = 6.58%, max = 88.89%). The Taiwan People's Party (TPP) received an average of 20.13% of votes (SD = 4.55%, min = 1.64%, max = 44.19%), while the New Power Party (NPP) had a much smaller average vote share of 2.27% (SD = 0.98%, min = 0%, max = 28.80%).
 

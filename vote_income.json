@@ -1,5 +1,5 @@
 {
-  "description": "Summary of each variable in the 'prec_income' data frame based on its class and contents.",
+  "description": "Summary of each variable in the 'vote_income' data frame based on its class and contents.",
   "summary": {
     "county": {
       "class": "character",
