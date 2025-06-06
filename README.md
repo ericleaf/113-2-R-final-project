@@ -1,4 +1,4 @@
-# 113-2-R-final-project
+# 113-2-R-final-project/Analysis of Party Voting Preferences and Social Economic Status
 
 Upload your CSV file, codebook.md, and any json files/relevant files here. AND
 
