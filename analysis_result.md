@@ -22,7 +22,7 @@
 
 ### Model for DPP:
 
-| term        | estimate    | std_error  | statistic | p_value      |
+| term        | estimate    | std. error | statistic | p value      |
 | ----------- | ----------- | ---------- | --------- | ------------ |
 | (Intercept) | 0.47201364  | 0.00523643 | 90.1404   | 0.0000\*\*\* |
 | median      | -0.00022266 | 0.00001282 | -17.3677  | 0.0000\*\*\* |
@@ -30,7 +30,7 @@
 
 ### Model for KMT:
 
-| term        | estimate    | std_error  | statistic | p_value      |
+| term        | estimate    | std. error | statistic | p value      |
 | ----------- | ----------- | ---------- | --------- | ------------ |
 | (Intercept) | 0.33952132  | 0.00510551 | 66.5009   | 0.0000\*\*\* |
 | median      | 0.00003360  | 0.00001250 | 2.6881    | 0.0072\*\*   |
@@ -38,7 +38,7 @@
 
 ### Model for TPP:
 
-| term        | estimate    | std_error  | statistic | p_value      |
+| term        | estimate    | std. error | statistic | p value      |
 | ----------- | ----------- | ---------- | --------- | ------------ |
 | (Intercept) | 0.12984942  | 0.00211300 | 61.4527   | 0.0000\*\*\* |
 | median      | 0.00016323  | 0.00000517 | 31.5530   | 0.0000\*\*\* |
@@ -46,7 +46,7 @@
 
 ### Model for NPP:
 
-| term        | estimate   | std_error  | statistic | p_value      |
+| term        | estimate   | std. error | statistic | p value      |
 | ----------- | ---------- | ---------- | --------- | ------------ |
 | (Intercept) | 0.00551519 | 0.00044081 | 12.5115   | 0.0000\*\*\* |
 | median      | 0.00003765 | 0.00000108 | 34.8876   | 0.0000\*\*\* |
