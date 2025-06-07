@@ -17,8 +17,8 @@ This dataset contains village-level information for 7,723 villages across Taiwan
 | kmt      | numeric    | Vote share of the Kuomintang (KMT) in the 2024 election.                   |
 | tpp      | numeric    | Vote share of the Taiwan People's Party (TPP) in the 2024 election.        |
 | npp      | numeric    | Vote share of the New Power Party (NPP) in the 2024 election.              |
-| median   | integer    | Median income in the village in 2021.                                      |
-| sd       | numeric    | Standard deviation of income in the village in 2021.                       |
+| median   | integer    | Median of income in the village in 2021 (Unit: NT$1000).                   |
+| sd       | numeric    | Standard deviation of income in the village in 2021 (Unit: NT$1000).       |
 
 ## Single variable summaries
 
@@ -85,7 +85,7 @@ This dataset contains village-level information for 7,723 villages across Taiwan
     },
     "median": {
       "class": "integer",
-      "description": "Median income in the village in 2021.",
+      "description": "Median of income in the village in 2021 (Unit: NT$1000).",
       "mean": 442.1897,
       "sd": 106.2304,
       "min": 203,
@@ -94,7 +94,7 @@ This dataset contains village-level information for 7,723 villages across Taiwan
     },
     "sd": {
       "class": "numeric",
-      "description": "Standard deviation of income in the village in 2021.",
+      "description": "Standard deviation of income in the village in 2021 (Unit: NT$1000).",
       "mean": 882.6757,
       "sd": 775.9117,
       "min": 253.36,
